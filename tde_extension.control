@@ -1,0 +1,4 @@
+# tde_extension.control
+comment = 'A basic encryption/decryption extension using AES'
+default_version = '1.0'
+module_pathname = '$libdir/tde_extension'
